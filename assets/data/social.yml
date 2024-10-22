@@ -4,7 +4,7 @@ github:
   Prefix: https://github.com/
   Title: GitHub
   Icon:
-    Class: fa-brands fa-github fa-fw
+    Class: fab fa-github fa-fw
 
 # 002: LinkedIn
 linkedin:
@@ -12,15 +12,15 @@ linkedin:
   Prefix: https://linkedin.com/in/
   Title: LinkedIn
   Icon:
-    Class: fab fa-linkedin fa-brands fa-fw
+    Class: fab fa-linkedin fa-fw
 
-# 003: Twitter
-twitter:
+# 003: X-Twitter
+x-twitter:
   Weight: 3
   Prefix: https://x.com/
   Title: X
   Icon:
-    Class: fab fa-brands fa-fw fa-square-x-twitter
+    Class: fab fa-square-x-twitter fa-fw
 
 # 004: Instagram
 instagram:
@@ -598,6 +598,6 @@ rss:
 bluesky:
   Weight: 101
   Prefix: https://bsky.app/profile/
-  Title: Bluesky
+  Title: bluesky
   Icon:
     Class: fa-brands fa-bluesky fa-fw
