@@ -2,3 +2,13 @@
 // Override Variables
 // 覆盖变量
 // ==============================
+
+//Making sure in dark mode, we can see the dotted separator line
+[theme="dark"] .single .content hr{
+    border-top: solid 1px !important;
+    border-top-color: dimgray !important;
+}
+[theme="light"] .single .content hr{
+    border-top: solid 1px !important;
+    border-top-color: dimgray !important;
+}
